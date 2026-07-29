@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋 I'm Sima Eskandari
 
-<!--
-**simaeskandari80-alt/simaeskandari80-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Frontend Developer
 
-Here are some ideas to get you started:
+I enjoy building responsive and user-friendly web applications using modern frontend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Redux Toolkit
+- React Query
+- Tailwind CSS
+- Material UI
+- Git
+- GitHub
+
+---
+
+## 📌 Featured Projects
+
+### 🛍 Shoe Shop
+
+JavaScript shopping website
+
+### 🧸 Toy Shop
+
+Next.js E-commerce website
+
+### 🧠 Quiz App
+
+React Quiz Application using OpenTDB API
+
+---
+
+## 📫 Contact
+
+Email:
+simaeskandari80@gmail.com
+
+LinkedIn:
+(Add your LinkedIn)
