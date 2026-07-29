@@ -1,25 +1,24 @@
 <div align="center">
 
-# Hi 👋 I'm Sima Eskandari
+# Hi there 👋 I'm **Sima Eskandari**
 
-### Frontend Developer
+### Frontend Developer • React • Next.js • TypeScript
 
-Building modern, responsive and scalable web applications with React & Next.js.
+Building modern, responsive and user-friendly web applications with clean code and thoughtful UI.
 
-<p>
-<a href="https://github.com/simaeskandari80-alt">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br/>
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:simaeskandari80@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://github.com/simaeskandari80-alt">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -27,15 +26,15 @@ Building modern, responsive and scalable web applications with React & Next.js.
 
 # 👩‍💻 About Me
 
-I'm a passionate **Frontend Developer** who enjoys creating beautiful, responsive and user-friendly web applications.
+I'm a **Frontend Developer** passionate about creating fast, responsive and intuitive web applications.
 
-I believe writing clean code and continuously learning new technologies are the keys to becoming a great software engineer.
+I enjoy transforming ideas into elegant user interfaces while writing clean, maintainable and scalable code.
 
-Currently focusing on building real-world projects with **React**, **Next.js** and **TypeScript**.
+Currently expanding my expertise in **React**, **Next.js**, **TypeScript** and modern frontend architecture.
 
 ---
 
-# 🚀 Tech Stack
+# ⚡ Tech Stack
 
 ### Languages
 
@@ -52,10 +51,20 @@ Currently focusing on building real-world projects with **React**, **Next.js** a
 ### Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=materialui" />
-</p>
 
-React Query • React Hook Form • Zod • Swiper
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Zod-3068B7?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white"/>
+
+</p>
 
 ### Tools
 
@@ -65,96 +74,106 @@ React Query • React Hook Form • Zod • Swiper
 
 ---
 
-# 🌱 Currently Learning
-
-- Advanced React Patterns
-- Next.js
-- Performance Optimization
-- Clean Architecture
-- Software Design Principles
-
----
-
-# 💼 Featured Projects
+# 🚀 Featured Projects
 
 ## 🛍 Shoe Shop
 
-Responsive shopping website built with JavaScript.
+Responsive shopping website built with Vanilla JavaScript.
 
-### Features
+### Highlights
 
-- Product Listing
-- Shopping Cart
-- Search
 - Responsive Design
+- Product Search
+- Shopping Cart
+- Local Storage
+- Clean UI
 
-🔗 Repository
+**Live Demo**
 
-🔗 Live Demo
+https://YOUR_DEMO
+
+**Repository**
+
+https://github.com/simaeskandari80-alt/shoeshop
 
 ---
 
 ## 🧸 Toy Shop
 
-Modern E-commerce website built with Next.js.
+Modern e-commerce application built with Next.js.
 
-### Features
+### Highlights
 
 - Dynamic Routing
-- Product Details
-- Responsive UI
-- Modern Design
+- Responsive Layout
+- Reusable Components
+- Modern UI
 
-🔗 Repository
+**Live Demo**
 
-🔗 Live Demo
+https://YOUR_DEMO
+
+**Repository**
+
+YOUR_REPOSITORY
 
 ---
 
 ## 🧠 Quiz App
 
-Interactive quiz application built with React and OpenTDB API.
+Quiz application powered by React and OpenTDB API.
 
-### Features
+### Highlights
 
 - API Integration
-- Timer
 - Score Tracking
+- Timer
 - Responsive Design
 
-🔗 Repository
+**Live Demo**
 
-🔗 Live Demo
+YOUR_DEMO
+
+**Repository**
+
+YOUR_REPOSITORY
 
 ---
 
-# 📊 GitHub Stats
+# 🌱 Currently Learning
+
+- Advanced React
+- Next.js
+- TypeScript
+- Performance Optimization
+- Software Architecture
+- Clean Code
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=simaeskandari80-alt&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=simaeskandari80-alt&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaeskandari80-alt&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaeskandari80-alt&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=simaeskandari80-alt&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=simaeskandari80-alt&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
-
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=simaeskandari80-alt&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=simaeskandari80-alt&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -162,19 +181,15 @@ Interactive quiz application built with React and OpenTDB API.
 
 # 🎯 2026 Goals
 
-✅ Build production-ready React applications
-
-✅ Master Next.js
-
-✅ Improve TypeScript skills
-
-✅ Contribute to Open Source
-
-✅ Land my first Frontend Developer role
+- Build production-ready React applications
+- Master Next.js
+- Deepen TypeScript knowledge
+- Contribute to Open Source
+- Land my first Frontend Developer role
 
 ---
 
-# 📫 Contact Me
+# 🤝 Let's Connect
 
 📧 **Email**
 
@@ -182,9 +197,9 @@ simaeskandari80@gmail.com
 
 💼 **LinkedIn**
 
-YOUR_LINKEDIN
+YOUR_LINKEDIN_URL
 
-🌐 **GitHub**
+🌍 **GitHub**
 
 https://github.com/simaeskandari80-alt
 
@@ -192,8 +207,8 @@ https://github.com/simaeskandari80-alt
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile ⭐
 
-Always learning. Always building.
+*"Great user experiences are built with clean code, attention to detail and continuous learning."*
 
 </div>
